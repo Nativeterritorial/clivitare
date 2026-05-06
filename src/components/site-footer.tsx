@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { cities } from "@/lib/cities";
 
 export function SiteFooter() {
   return (
@@ -29,6 +30,22 @@ export function SiteFooter() {
             <a href="https://wa.me/555436983058" className="hover:text-ivory">WhatsApp (54) 3698-3058</a>
             <a href="https://instagram.com/centroclinicoclivitare" className="hover:text-ivory">@centroclinicoclivitare</a>
             <Link href="/ronco-e-apneia" className="hover:text-ivory">DG Ronco e Apneia do Sono</Link>
+          </div>
+        </div>
+      </div>
+      <div className="border-t border-ivory/10">
+        <div className="max-w-7xl mx-auto px-6 md:px-10 py-8">
+          <h4 className="text-xs uppercase tracking-[0.2em] text-gold-soft">Atendemos pacientes de</h4>
+          <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-xs text-ivory/60">
+            {cities.map((c) => (
+              <Link
+                key={c.slug}
+                href={`/atendimento/${c.slug}`}
+                className="hover:text-ivory transition-colors"
+              >
+                {c.name}
+              </Link>
+            ))}
           </div>
         </div>
       </div>
