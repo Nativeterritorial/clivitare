@@ -204,8 +204,9 @@ export default async function CidadePage({
             <em className="text-gold font-light">vamos cuidar de você</em>.
           </h2>
           <p className="mt-8 text-mute leading-relaxed">
-            Atendimento em Veranópolis, com estacionamento no local e horários
-            flexíveis. Fale com a gente pelo WhatsApp e agende sua avaliação.
+            Atendemos pacientes de toda a região com horários flexíveis e
+            planejamento personalizado. Fale com a gente pelo WhatsApp e agende
+            sua avaliação.
           </p>
           <div className="mt-10 flex flex-wrap gap-4 justify-center">
             <a
