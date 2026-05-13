@@ -62,7 +62,7 @@ export default async function CidadePage({
     name: "Clivitare — Centro Clínico Odontológico",
     image: "https://clivitare.com.br/media/clivitare/logo-lockup.png",
     url: `https://clivitare.com.br/atendimento/${city.slug}`,
-    telephone: "+55 54 3698-3058",
+    telephone: "+55 54 3698-3038",
     address: {
       "@type": "PostalAddress",
       streetAddress: "R. Dr. Idemundo Tedesco, 245 — Imperia Centro Profissional",
@@ -112,7 +112,7 @@ export default async function CidadePage({
           </p>
           <div className="mt-10 flex flex-wrap gap-4 fade-up-3">
             <a
-              href="https://wa.me/555436983058"
+              href="https://wa.me/555436983038"
               className="px-8 py-4 bg-ink text-ivory text-sm tracking-[0.2em] uppercase hover:bg-gold transition-colors"
             >
               Agendar consulta
@@ -210,7 +210,7 @@ export default async function CidadePage({
           </p>
           <div className="mt-10 flex flex-wrap gap-4 justify-center">
             <a
-              href="https://wa.me/555436983058"
+              href="https://wa.me/555436983038"
               className="px-8 py-4 bg-ink text-ivory text-sm tracking-[0.2em] uppercase hover:bg-gold transition-colors"
             >
               Falar no WhatsApp

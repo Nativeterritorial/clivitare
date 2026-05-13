@@ -68,7 +68,7 @@ export default function RoncoApneia() {
 
             <div className="mt-12 flex flex-wrap gap-4 fade-up-3">
               <a
-                href="https://wa.me/555436983058"
+                href="https://wa.me/555436983038"
                 className="px-8 py-4 bg-dg-sand text-dg-deep text-sm tracking-[0.2em] uppercase hover:bg-dg-cream transition-colors"
               >
                 Agendar avaliação
@@ -141,7 +141,7 @@ export default function RoncoApneia() {
           </div>
 
           <a
-            href="https://wa.me/555436983058?text=Ol%C3%A1%2C%20gostaria%20de%20fazer%20uma%20avalia%C3%A7%C3%A3o%20para%20ronco%20e%20apneia%20do%20sono."
+            href="https://wa.me/555436983038?text=Ol%C3%A1%2C%20gostaria%20de%20fazer%20uma%20avalia%C3%A7%C3%A3o%20para%20ronco%20e%20apneia%20do%20sono."
             className="inline-block mt-12 px-10 py-4 bg-dg-sand text-dg-deep text-sm tracking-[0.2em] uppercase hover:bg-dg-cream transition-colors"
           >
             Solicitar avaliação
@@ -213,7 +213,7 @@ export default function RoncoApneia() {
             Agende sua avaliação com a DG Ronco e Apneia do Sono.
           </p>
           <a
-            href="https://wa.me/555436983058"
+            href="https://wa.me/555436983038"
             className="inline-block mt-10 px-10 py-4 bg-dg-sand text-dg-deep text-sm tracking-[0.2em] uppercase hover:bg-dg-cream transition-colors"
           >
             Falar no WhatsApp

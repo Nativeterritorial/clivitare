@@ -48,7 +48,7 @@ export function SiteNav() {
             </Link>
           ))}
           <a
-            href="https://wa.me/555436983058"
+            href="https://wa.me/555436983038"
             target="_blank"
             rel="noopener"
             className="text-[13px] tracking-wider uppercase px-5 py-2.5 border border-ink text-ink hover:bg-ink hover:text-ivory transition-colors"
@@ -79,7 +79,7 @@ export function SiteNav() {
             </Link>
           ))}
           <a
-            href="https://wa.me/555436983058"
+            href="https://wa.me/555436983038"
             className="text-sm tracking-wider uppercase px-5 py-3 border border-ink text-center"
           >
             Agendar

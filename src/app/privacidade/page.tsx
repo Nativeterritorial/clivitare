@@ -80,7 +80,7 @@ export default function Privacidade() {
               <li>revogação do consentimento.</li>
             </ul>
             Para exercer qualquer desses direitos, entre em contato pelo
-            WhatsApp (54) 3698-3058 ou pelo Instagram{" "}
+            WhatsApp (54) 3698-3038 ou pelo Instagram{" "}
             <a
               href="https://instagram.com/centroclinicoclivitare"
               className="text-ink underline underline-offset-2"

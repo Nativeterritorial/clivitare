@@ -65,7 +65,7 @@ export default function Home() {
             </p>
             <div className="mt-10 flex flex-wrap gap-4 fade-up-3">
               <a
-                href="https://wa.me/555436983058"
+                href="https://wa.me/555436983038"
                 className="px-8 py-4 bg-ink text-ivory text-sm tracking-[0.2em] uppercase hover:bg-gold transition-colors"
               >
                 Agendar consulta
@@ -167,7 +167,7 @@ export default function Home() {
 
           <div className="mt-16 text-center">
             <a
-              href="https://wa.me/555436983058"
+              href="https://wa.me/555436983038"
               className="inline-block px-10 py-4 border border-ink text-sm tracking-[0.2em] uppercase hover:bg-ink hover:text-ivory transition-colors"
             >
               Agendar consulta
@@ -212,7 +212,7 @@ export default function Home() {
 
           <div className="mt-16 text-center">
             <a
-              href="https://wa.me/555436983058"
+              href="https://wa.me/555436983038"
               className="inline-block px-10 py-4 bg-ink text-ivory text-sm tracking-[0.2em] uppercase hover:bg-gold transition-colors"
             >
               Marcar avaliação
@@ -277,7 +277,7 @@ export default function Home() {
             </h2>
             <div className="mt-10 space-y-6">
               <Info label="Endereço" value="R. Dr. Idemundo Tedesco, 245 — São Pelegrino, Veranópolis/RS" />
-              <Info label="WhatsApp" value="(54) 3698-3058" href="https://wa.me/555436983058" />
+              <Info label="WhatsApp" value="(54) 3698-3038" href="https://wa.me/555436983038" />
               <Info label="Instagram" value="@centroclinicoclivitare" href="https://instagram.com/centroclinicoclivitare" />
             </div>
           </div>

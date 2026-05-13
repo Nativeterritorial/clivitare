@@ -27,7 +27,7 @@ export function SiteFooter() {
         <div>
           <h4 className="text-xs uppercase tracking-[0.2em] text-gold-soft">Contato</h4>
           <div className="mt-4 flex flex-col gap-2 text-sm text-ivory/80">
-            <a href="https://wa.me/555436983058" className="hover:text-ivory">WhatsApp (54) 3698-3058</a>
+            <a href="https://wa.me/555436983038" className="hover:text-ivory">WhatsApp (54) 3698-3038</a>
             <a href="https://instagram.com/centroclinicoclivitare" className="hover:text-ivory">@centroclinicoclivitare</a>
             <Link href="/ronco-e-apneia" className="hover:text-ivory">DG Ronco e Apneia do Sono</Link>
           </div>
