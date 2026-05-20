@@ -7,6 +7,7 @@ const links = [
   { href: "/#especialidades", label: "Especialidades" },
   { href: "/#equipe", label: "Equipe" },
   { href: "/ronco-e-apneia", label: "Ronco & Apneia" },
+  { href: "/sono-infantil", label: "Sono Infantil" },
   { href: "/#contato", label: "Contato" },
 ];
 

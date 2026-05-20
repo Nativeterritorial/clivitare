@@ -30,6 +30,7 @@ export function SiteFooter() {
             <a href="https://wa.me/555436983038" className="hover:text-ivory">WhatsApp (54) 3698-3038</a>
             <a href="https://instagram.com/centroclinicoclivitare" className="hover:text-ivory">@centroclinicoclivitare</a>
             <Link href="/ronco-e-apneia" className="hover:text-ivory">DG Ronco e Apneia do Sono</Link>
+            <Link href="/sono-infantil" className="hover:text-ivory">Nana Nenê — Sono Infantil</Link>
           </div>
         </div>
       </div>

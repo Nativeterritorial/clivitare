@@ -16,6 +16,15 @@
   --color-dg-deep: #3a2f24;
   --color-dg-cream: #f3ebdc;
 
+  /* Nana Nenê — soft, gentle, nursery */
+  --color-nn-bg: #f4ede2;
+  --color-nn-bg-soft: #faf5ec;
+  --color-nn-ink: #3a2f24;
+  --color-nn-mute: #7a6d5d;
+  --color-nn-line: #e5dccb;
+  --color-nn-blue: #b8c9d6;
+  --color-nn-blue-deep: #6f8a9a;
+
   --font-serif: var(--font-serif);
   --font-sans: var(--font-sans);
 }
