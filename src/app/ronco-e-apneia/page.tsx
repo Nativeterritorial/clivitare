@@ -202,6 +202,71 @@ export default function RoncoApneia() {
         </Reveal>
       </section>
 
+      {/* SONO INFANTIL — NANA NENÊ */}
+      <section id="sono-infantil" className="py-32 border-t border-dg-sand/20">
+        <Reveal className="max-w-6xl mx-auto px-6 md:px-10 grid md:grid-cols-12 gap-12 items-center">
+          <div className="md:col-span-7 md:order-2">
+            <span className="text-xs tracking-[0.3em] uppercase text-dg-sand">
+              Novidade · Sono infantil
+            </span>
+            <h2 className="font-serif text-5xl md:text-6xl leading-tight mt-6">
+              Para os pequenos,<br />
+              <em className="text-dg-sand font-light">Nana Nenê</em>.
+            </h2>
+            <p className="mt-8 text-lg text-dg-cream/80 leading-relaxed">
+              Agora a DG conta com a <strong className="text-dg-cream">Luiza Castelli</strong>,
+              Educadora Integrativa do Sono Infantil — foco no atendimento de
+              bebês e crianças de <strong className="text-dg-cream">0 a 3 anos</strong>.
+            </p>
+            <p className="mt-5 text-dg-cream/75 leading-relaxed">
+              Formação nacional e internacional, com especialização em uma
+              escola do Alabama (EUA), que fundamenta sua prática com base
+              sólida e científica. Abordagem integrativa e individualizada,
+              que respeita o desenvolvimento e as necessidades de cada criança
+              e família — <em className="text-dg-sand">sem métodos que envolvam deixar o bebê chorando</em>.
+            </p>
+
+            <div className="mt-10 grid grid-cols-3 gap-6 border-t border-dg-sand/20 pt-8">
+              <div>
+                <p className="font-serif text-3xl text-dg-sand">0–3</p>
+                <p className="text-xs tracking-[0.2em] uppercase text-dg-cream/60 mt-2">Anos</p>
+              </div>
+              <div>
+                <p className="font-serif text-3xl text-dg-sand">Integrativa</p>
+                <p className="text-xs tracking-[0.2em] uppercase text-dg-cream/60 mt-2">Abordagem</p>
+              </div>
+              <div>
+                <p className="font-serif text-3xl text-dg-sand">Alabama</p>
+                <p className="text-xs tracking-[0.2em] uppercase text-dg-cream/60 mt-2">Formação EUA</p>
+              </div>
+            </div>
+
+            <div className="mt-10 flex flex-wrap gap-4">
+              <a
+                href="https://wa.me/555436983038?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20com%20a%20Nana%20Nen%C3%AA%20%E2%80%94%20sono%20infantil."
+                className="px-8 py-4 bg-dg-sand text-dg-deep text-sm tracking-[0.2em] uppercase hover:bg-dg-cream transition-colors"
+              >
+                Agendar com Nana Nenê
+              </a>
+            </div>
+          </div>
+
+          <div className="md:col-span-5 md:order-1">
+            <div className="aspect-[4/5] overflow-hidden border border-dg-sand/20 bg-dg-cream/5">
+              <img
+                src="/media/dg/luiza-castelli.jpg"
+                alt="Luiza Castelli — Nana Nenê, Educadora Integrativa do Sono Infantil"
+                className="w-full h-full object-cover"
+              />
+            </div>
+            <p className="mt-5 text-sm text-dg-cream/60 italic font-serif text-center">
+              “Será um prazer atender a cidade de Veranópolis, um lugar que tenho
+              um carinho especial.”
+            </p>
+          </div>
+        </Reveal>
+      </section>
+
       {/* CTA FINAL */}
       <section className="py-40 text-center">
         <Reveal className="max-w-3xl mx-auto px-6 md:px-10">
