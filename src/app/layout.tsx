@@ -28,6 +28,14 @@ export const metadata: Metadata = {
       "Centro interdisciplinar de saúde e bem-estar em Veranópolis/RS.",
     type: "website",
     locale: "pt_BR",
+    url: "https://clivitare.com.br",
+    siteName: "Clivitare",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Clivitare — Centro Clínico Odontológico",
+    description:
+      "Centro interdisciplinar de saúde e bem-estar em Veranópolis/RS.",
   },
 };
 

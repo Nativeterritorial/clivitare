@@ -40,9 +40,34 @@ const especialidades = [
   { t: "Odontologia do Sono", d: "Placa intraoral, CPAP e manejo do ronco e apneia.", highlight: true },
 ];
 
+const organization = {
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://clivitare.com.br/#clivitare",
+  name: "Clivitare — Centro Clínico Odontológico",
+  alternateName: "Clivitare",
+  url: "https://clivitare.com.br",
+  logo: "https://clivitare.com.br/media/clivitare/logo-icon.png",
+  image: "https://clivitare.com.br/media/clivitare/logo-lockup.png",
+  telephone: "+55 54 3698-3038",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "R. Dr. Idemundo Tedesco, 245 — Imperia Centro Profissional",
+    addressLocality: "Veranópolis",
+    addressRegion: "RS",
+    postalCode: "95330-000",
+    addressCountry: "BR",
+  },
+};
+
 export default function Home() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organization) }}
+      />
+
       {/* HERO */}
       <section className="relative min-h-[92vh] flex items-center overflow-hidden bg-bone">
         <div className="absolute inset-0 grain" />
